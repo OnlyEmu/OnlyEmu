@@ -1,0 +1,9 @@
+Origin: OnlyEmu's Repo
+Label: OnlyEmu's Repo
+Suite: stable
+Version: 1.0
+Codename: OnlyEmu
+Architectures: iphoneos-arm
+Component: main
+Description: OnlyEmu's Repo
+MD5Sum:
