@@ -1,0 +1,15 @@
+Package: com.onlyemu.tenuis
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Emu <emmanuel.tesauro.3@gmail.com>
+Depends: <com.anemonetheming.anemone>
+Filename: debs//springboard/com.onlyemu.tenuis.deb
+Size: 554528
+MD5sum: 6684FE4861CDB285542B7A492A39BBE3
+SHA1: 83102846CE834A7F0F67C2005D57389D09C7E52B
+SHA256: 2b6ead62bbc56c6c0a74a475111b28bba7149c502de23e75f975b83e14b0e385
+Section: Themes
+Description: Only little test
+Author: Emu <emmanuel.tesauro.3@gmail.com>
+Depiction:
+Name: Tenuis
