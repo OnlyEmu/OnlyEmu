@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Origin: onlyemu repo
 Label: onlyemu repo
 Suite: stable
@@ -7,3 +8,14 @@ Architectures: iphoneos-arm
 Component: main
 Description: onlyemu repo
 MD5Sum:
+=======
+Origin: onlyEmu repo
+Label: onlyEmu repo
+Suite: stable
+Version: 1.0
+Codename: onlyEmu
+Architectures: iphoneos-arm
+Component: main
+Description: onlyEmu repo
+MD5Sum:
+>>>>>>> origin/master
