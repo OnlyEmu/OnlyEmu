@@ -1,9 +1,9 @@
-Origin: onlyEmu.github.io
-Label: onlyEmu.github.io
+Origin: onlyEmu repo
+Label: onlyEmu repo
 Suite: stable
 Version: 1.0
 Codename: onlyEmu
 Architectures: iphoneos-arm
 Component: main
-Description: onlyEmu.github.io
+Description: onlyEmu repo
 MD5Sum:
